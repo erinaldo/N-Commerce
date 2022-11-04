@@ -1,0 +1,139 @@
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\Infraestructura.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll.config
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\Dominio.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\Dominio.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\Dominio.dll.config
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.MapeoInicial.resources
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.Localidad.resources
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll.config
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Infraestructura.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Dominio.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Dominio.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Dominio.dll.config
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.MapeoInicial.resources
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll.config
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Dominio.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.pdb
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll.config
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Dominio.pdb
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Dominio.dll.config
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.xml
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.MapeoInicial.resources
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.GenerateResource.cache
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll.config
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Dominio.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll.config
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Dominio.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Dominio.dll.config
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.xml
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.MapeoInicial.resources
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.GenerateResource.cache
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.cuentaCorrienteCliente.resources
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.reinicio.resources
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll.config
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Dominio.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.pdb
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll.config
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Dominio.pdb
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Dominio.dll.config
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.xml
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.MapeoInicial.resources
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.cuentaCorrienteCliente.resources
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.reinicio.resources
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.GenerateResource.cache
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.formateada.resources
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll.config
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Dominio.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.pdb
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Aplicacion.dll.config
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Dominio.pdb
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\bin\Debug\Dominio.dll.config
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.xml
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.MapeoInicial.resources
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.cuentaCorrienteCliente.resources
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.reinicio.resources
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.Migrations.formateada.resources
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.GenerateResource.cache
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Infraestructura\obj\Debug\Infraestructura.pdb

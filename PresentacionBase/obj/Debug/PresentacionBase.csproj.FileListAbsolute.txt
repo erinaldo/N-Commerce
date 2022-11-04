@@ -1,0 +1,64 @@
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csprojAssemblyReference.cache
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Properties.Resources.resources
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csprojAssemblyReference.cache
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Properties.Resources.resources
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.AssemblyReference.cache
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Properties.Resources.resources
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.AssemblyReference.cache
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Properties.Resources.resources
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb

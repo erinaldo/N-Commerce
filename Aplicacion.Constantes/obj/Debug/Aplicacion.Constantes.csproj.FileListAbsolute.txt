@@ -1,0 +1,40 @@
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.AssemblyReference.cache
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.AssemblyReference.cache
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb

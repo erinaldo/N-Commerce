@@ -1,0 +1,123 @@
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Servicios\bin\Debug\Servicios.dll.config
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Servicios\bin\Debug\Servicios.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Servicios\bin\Debug\Servicios.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Servicios\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Servicios\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Servicios\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Servicios\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Servicios\obj\Debug\Servicios.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Servicios\obj\Debug\Servicios.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Servicios\obj\Debug\Servicios.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Servicios\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Servicios\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Servicios\bin\Debug\IServicios.dll.config
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Servicios.dll.config
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Servicios.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Servicios.pdb
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Dominio.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\EntityFramework.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Infraestructura.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\IServicios.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\StructureMap.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Dominio.pdb
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Dominio.dll.config
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Infraestructura.pdb
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Infraestructura.dll.config
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\IServicios.pdb
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\IServicios.dll.config
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\EntityFramework.xml
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.pdb
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.dll.config
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.csprojAssemblyReference.cache
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.dll
+C:\Users\facun\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Servicios.dll.config
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Servicios.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Servicios.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Dominio.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\EntityFramework.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Infraestructura.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\IServicios.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\StructureMap.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Dominio.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Dominio.dll.config
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Infraestructura.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Infraestructura.dll.config
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\IServicios.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\IServicios.dll.config
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\EntityFramework.xml
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.pdb
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.dll.config
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.csprojAssemblyReference.cache
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.dll
+C:\Users\Facundo\OneDrive\Desktop\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.pdb
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\Servicios.dll.config
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\Servicios.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\Servicios.pdb
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\Dominio.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\EntityFramework.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\Infraestructura.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\IServicios.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\StructureMap.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\Dominio.pdb
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\Dominio.dll.config
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\Infraestructura.pdb
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\Infraestructura.dll.config
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\IServicios.pdb
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\IServicios.dll.config
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\EntityFramework.xml
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.pdb
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.dll.config
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.csproj.AssemblyReference.cache
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.dll
+C:\Users\Facundo\OneDrive\Documents\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.pdb
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\Servicios.dll.config
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\Servicios.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\Servicios.pdb
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\Dominio.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\EntityFramework.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\Infraestructura.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\IServicios.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\StructureMap.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\Dominio.pdb
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\Dominio.dll.config
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\Infraestructura.pdb
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\Infraestructura.dll.config
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\IServicios.pdb
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\IServicios.dll.config
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\EntityFramework.xml
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.pdb
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\bin\Debug\Aplicacion.dll.config
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.csproj.AssemblyReference.cache
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.dll
+C:\Users\Facundo\Documents\Facultad\Laboratorio de computacion 2\ParcialC4\N-Commerce\Servicios\obj\Debug\Servicios.pdb
